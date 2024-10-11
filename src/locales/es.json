@@ -1,0 +1,21 @@
+{
+  "common": {
+    "home": "Inicio",
+    "explore": "Explorar",
+    "shop": "Tienda",
+    "about": "Acerca de",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse"
+  },
+  "home": {
+    "title": "Apoya a tus creadores favoritos",
+    "featuredCampaigns": "Campañas destacadas",
+    "waysToSupport": "Formas de apoyar"
+  },
+  "creator": {
+    "support": "Apoyar",
+    "becomeAMember": "Hazte miembro",
+    "shop": "Tienda",
+    "commissions": "Comisiones"
+  }
+}
